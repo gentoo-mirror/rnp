@@ -8,7 +8,7 @@ inherit cmake git-r3
 DESCRIPTION="High performance C++ OpenPGP library, fully compliant to RFC 4880"
 HOMEPAGE="https://www.rnpgp.org/ https://github.com/rnpgp/rnp/"
 SRC_URI=""
-EGIT_REPO_URI="https://github.com/rnpgp/gentoo-rnp.git"
+EGIT_REPO_URI="https://github.com/rnpgp/rnp.git"
 
 LICENSE="BSD-2 BSD Apache-2.0"
 SLOT="0"
